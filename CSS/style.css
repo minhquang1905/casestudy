@@ -1,0 +1,174 @@
+
+ul li{
+    list-style: none;
+}
+
+ul#menu_chinh{
+    float: left;
+}
+
+ul#menu_chinh li{
+    float: left;
+    }
+
+    ul#menu_chinh li a{
+        color: black;
+        padding: 1000px 63px;
+        text-decoration: none;
+    }
+
+    .banner {
+        display: inline-flex;
+    }
+
+.a{
+    width: 370px;
+    height: 350px;
+}
+
+.b{
+    width: 370px;
+    height: 350px;
+}
+
+.c{
+    width: 370px;
+    height: 350px;
+}
+
+.d{
+    width: 390px;
+    height: 350px   ;
+}
+.quangcao{
+    background-color: turquoise;
+    width: 100%;
+    height: 250px;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 18px;
+}
+.et_pb_module.et_pb_button, .et_pb_promo_button {
+    display: inline-block;
+    color: inherit;
+}
+.et_pb_button {
+    position: relative;
+    padding: .3em 1em;
+    border: 2px solid;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.7em!important;
+    -webkit-transition: all .2s;
+    -moz-transition: all .2s;
+    transition: all .2s;
+}
+a {
+    color: #2ea3f2;
+    text-decoration: none;
+}
+.header{
+    
+    background-image: linear-gradient(0, #808080, white);
+    width: 100%;
+    height: 50px;
+}
+ .banner1{
+    background-image: url('nen2.jpg'); 
+    height: 1500px; 
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    
+}
+ .text{
+     /* padding-top: 100px; */
+    /* padding-top: 0px; */
+    /* padding-left: 500px; */
+    width: 800px;
+    color:black;
+    font-size: 20px;
+    float: right;
+   
+}
+.com{
+    padding-right: 50px;
+    padding-top: 200px;
+    width: 800px;
+    color: black;
+    font-size: 45px;
+}
+.quangcao1 {
+    color: white;
+    height: 200px;
+    background-color: darkcyan;
+}
+.quangcao2 {
+    color: white;
+    height: 200px;
+    background-color:turquoise ;
+}
+.khoangtrong {
+    width: 100%;
+    height: 50px;
+}
+.otrong{
+    background-color:whitesmoke;
+    color: black;
+}
+.trong2{
+    width: 100%;
+    height: 30px;
+}
+.kecuoi{
+    background-color: turquoise;
+    width: 100%;
+    height: 150px;
+}
+.about{
+    width: 400px;
+    float: left;
+}
+.about #trai{
+    width: 70px;
+    height: 38px;
+    margin-top: 15px;
+    margin-right: 20px;
+    float: left;
+}
+.about #phai{
+    font-size: 15px;
+    width: 245px;
+    color: #6C6666;
+    float: left;
+}
+.contact{
+    width: 300px;
+    float: left;
+}
+.contact p{
+    font-size: 16px;
+    margin-top: 10px;
+    color: #6C6666;
+}
+.contact span{
+    font-size: 20px;
+    font-weight: bold;
+}
+.link{
+    width: 500px;
+    float: left;
+}
+.link p{
+    font-size: 16px;
+    margin-top: 45px;
+    color: #6C6666;
+}
+
